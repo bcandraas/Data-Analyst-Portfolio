@@ -16,7 +16,7 @@ Tools for this projects are SQL (Google BigQuery), Python (Google Colab), Tablea
 
 ## Project 5 - KPI Monitoring Dashboard
 
-## Project 6 - Customer Profiling Analysis (Segementation)
+## Project 6 - Customer Profiling Analysis (Segmmentation)
 
 ## Project 7 - Demand Planning Analysis (Forecasting)
 
