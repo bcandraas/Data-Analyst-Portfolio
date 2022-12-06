@@ -12,6 +12,8 @@ Tools for this projects are SQL (Google BigQuery), Python (Google Colab), Tablea
 
 ## Project 3 - Data Visualization
 
+Data visualization dashboard to a movie and TV show dataset using Tableau and Google Data Studio.
+
 ## Project 4 - Churn Analysis
 
 ## Project 5 - KPI Monitoring Dashboard
