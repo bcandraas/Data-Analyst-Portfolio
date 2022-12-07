@@ -24,10 +24,6 @@ Data visualization dashboard to a movie and TV show dataset using Tableau and Go
 
 ## Project 8 - Impact Estimation Analysis
 
-## Project 9 - Sales Analysis
-
-This dataset represent the data of XYZ, Ltd company. Data analyst can make use of the data to understand the company's profitability condition and provides accurate decision for the growth of company. 
-
-## Project 10 - Trend and User Behavior Analysis
+## Project 9 - Trend and User Behavior Analysis
 
 This dataset represents vending machine data from various locations in Central New Jersey. The locations include a library, a mall, office location and a manufacturing locations. Data analyst can make use of the data to understand trends, user behavior and overall preferences by consumers at different locations.
