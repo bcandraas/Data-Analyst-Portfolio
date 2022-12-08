@@ -8,6 +8,8 @@ Tools for this projects are SQL (Google BigQuery), Python (Google Colab), Tablea
 
 ## Project 1 - SQL (Google BigQuery)
 
+Exploratory Data Analysis in Google BigQuery by using The Look E-commerce and Iowa Liquor Sales Forecasting dataset. 
+
 ## Project 2 - Python (Google Colab)
 
 This dataset is e-commerce startup based in Portugal that recently opened an online website to sell their product. The e-coommerce needs help to increase their marketing conversion rate by doing more targeted marketing using customer segmentation.
@@ -17,6 +19,8 @@ This dataset is e-commerce startup based in Portugal that recently opened an onl
 Data visualization dashboard to a movie and TV show dataset using Tableau and Google Data Studio.
 
 ## Project 4 - Churn Analysis
+
+This project is about Internet Providers Customer Churn Analysis. This company needs recommendation to reduce the churn rate because it has 58% churn rate on this 3-month dataset which is a bad thing for internet service provider company that have services based on subscription. 
 
 ## Project 5 - KPI Monitoring Dashboard
 
