@@ -1,4 +1,4 @@
-# Project 5 Overview
+# Project 6 Customer Profiling Analysis (Segmentation) Overview
 
 This project is done after the course ended. It's part of Virtual Inteship RevoU x Astro for 2 Months (RevoU Labs)
 
