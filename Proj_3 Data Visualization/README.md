@@ -1,7 +1,31 @@
 # Project 3 Data Visualization Overview
 
-Tools for this project are Tableau and Google Data Studio
+Tools for this project are Tableau and Google Data Studio.
 
+Subject covered:
+
+› Google Data Studio
+
+    • Use GDS basic functionalities(connect and blend)
+
+    • Choose visualization
+
+    • Setup filtering in GDS
+
+› Tableau
+
+    • Use Tableau basic functionalities (connect and combine)
+
+    • Choose visualization
+
+    • Setup filtering in Tableau
+
+    • Create hirarchies in Tableau
+
+    • Use calculated fields in Tableau
+
+    • Create Tableau Interactive Dashboard
+    
 ## Project Objective
 
 Use the datasets to make a dashboard that will help users to learn more about film.
