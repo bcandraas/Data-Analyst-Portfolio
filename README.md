@@ -6,6 +6,8 @@ RevoU online data analyst program prepares me for a career as a data analyst by 
 
 Tools for this projects are SQL (Google BigQuery), Python (Google Colab), Tableau and Google Data Studio
 
+# Project during the course Full Stack Data Analytics
+
 ## Project 1 - SQL (Google BigQuery)
 
 Exploratory Data Analysis in Google BigQuery by using The Look E-commerce and Iowa Liquor Sales Forecasting dataset. 
@@ -21,6 +23,8 @@ Data visualization dashboard to a movie and TV show dataset using Tableau and Go
 ## Project 4 - Churn Analysis
 
 This project is about Internet Providers Customer Churn Analysis. This company needs recommendation to reduce the churn rate because it has 58% churn rate on this 3-month dataset which is a bad thing for internet service provider company that have services based on subscription. 
+
+# Project Virtual Intership RevoU x Astro (RevoU Labs)
 
 ## Project 5 - KPI Monitoring Dashboard
 
