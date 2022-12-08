@@ -26,14 +26,22 @@ This project is about Internet Providers Customer Churn Analysis. This company n
 
 # Project Virtual Intership RevoU x Astro (RevoU Labs)
 
+These projects are done after the course ended. It's part of Virtual Inteship RevoU x ASTRO for 2 Months (RevoU Labs). ASTRO Indonesia is a quick commerce start-up platform that provides groceries and essentials in 15 minutes. Therefore, the datasets will related to real projects in ASTRO.
+
+Dataset is dummy and provided by RevoU.
+
 ## Project 5 - KPI Monitoring Dashboard
+
+This project is to create 3 dashboard for C-Level, Mid-Level and Operational team to understand the business performance, whether on an operational or strategic level and make better decisions.
 
 ## Project 6 - Customer Profiling Analysis (Segmmentation)
 
+This project is about customer segmentation. Marketing team wants to know more about their customer characteristics to personalize the approach and define the marketing strategies better by using 3 variables; Recency, Frequency and Monetary.
+
 ## Project 7 - Demand Planning Analysis (Forecasting)
+
+This project is making a forecast for next 1 month for their stock item preparation in order to heightened company efficiency and increased customer satisfactory using forecasting method such as: Decomposition and Moving Average.
 
 ## Project 8 - Impact Estimation Analysis
 
-## Project 9 - Trend and User Behavior Analysis
-
-This dataset represents vending machine data from various locations in Central New Jersey. The locations include a library, a mall, office location and a manufacturing locations. Data analyst can make use of the data to understand trends, user behavior and overall preferences by consumers at different locations.
+This project is to save on shipping costs by unitiving delivery for orders that comes in almost simultaneously and close together by suggesting new proposed method. 
