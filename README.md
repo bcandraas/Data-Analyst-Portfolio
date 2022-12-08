@@ -10,6 +10,8 @@ Tools for this projects are SQL (Google BigQuery), Python (Google Colab), Tablea
 
 ## Project 2 - Python (Google Colab)
 
+This dataset is e-commerce startup based in Portugal that recently opened an online website to sell their product. The e-coommerce needs help to increase their marketing conversion rate by doing more targeted marketing using customer segmentation.
+
 ## Project 3 - Data Visualization
 
 Data visualization dashboard to a movie and TV show dataset using Tableau and Google Data Studio.
