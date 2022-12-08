@@ -4,7 +4,7 @@ This project is done after the course ended. It's part of Virtual Inteship RevoU
 
 Dataset is dummy and provided by RevoU
 
-Custoemer segmentation is the process of separating the customers into groups based on certain traits. This process also makes it easy to tailor and personalize marketing, service and sales efforts to the needs of specific groups.
+Customer segmentation is the process of separating the customers into groups based on certain traits. This process also makes it easy to tailor and personalize marketing, service and sales efforts to the needs of specific groups.
 
 ## Background or Expert Problem
 
