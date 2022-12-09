@@ -12,7 +12,7 @@ Tools for this projects are SQL (Google BigQuery), Python (Google Colab), Tablea
 
 Exploratory Data Analysis in Google BigQuery by using The Look E-commerce and Iowa Liquor Sales Forecasting dataset. 
 
-## Project 2 - Python (Google Colab)
+## Project 2 - Trend and User Behavior Analysis Python (Google Colab)
 
 This dataset is e-commerce startup based in Portugal that recently opened an online website to sell their product. The e-coommerce needs help to increase their marketing conversion rate by doing more targeted marketing using customer segmentation.
 
@@ -34,7 +34,7 @@ Dataset is dummy and provided by RevoU.
 
 This project is to create 3 dashboard for C-Level, Mid-Level and Operational team to understand the business performance, whether on an operational or strategic level and make better decisions.
 
-## Project 6 - Customer Profiling Analysis (Segmmentation)
+## Project 6 - Customer Profiling Analysis (Segmentation)
 
 This project is about customer segmentation. Marketing team wants to know more about their customer characteristics to personalize the approach and define the marketing strategies better by using 3 variables; Recency, Frequency and Monetary.
 
